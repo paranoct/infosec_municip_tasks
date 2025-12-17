@@ -7,7 +7,7 @@
 1. Установи Docker Desktop.
 2. В этой папке выполни:
    ```bash
-   docker compose up --build
+   docker-compose up --build
    ```
 3. Открой: http://localhost:8000
 
